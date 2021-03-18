@@ -53,4 +53,33 @@ https://mspoweruser.com/microsoft-celebrates-beating-chrome-in-html5-accessibili
 #### 인터페이스 구성 
 ## (2)
 
-전역속성 모두 찾아 설명
+### 전역속성 모두 찾아 설명
+https://www.w3.org/TR/html52/dom.html#global-attributes
+
+#### accesskey
+
+#### class
+
+#### contenteditable
+
+#### data
+
+#### dir
+
+#### draggable
+
+#### hidden
+
+#### id
+
+#### lang
+
+#### spellcheck
+
+#### style
+
+#### tabindex
+
+#### title
+
+#### translate
